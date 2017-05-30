@@ -86,13 +86,17 @@ vdom.patchStream(ui$, document.querySelector('#ui'));
 ### App Architecture
 ![app-architecture](./assets/img/app-architecture.png)
 
+### More Info
+- https://tiny.cc/iblokz-dev-guide
+- https://github.io/iblokz/ui-boilerplate
+- https://github.com/alex-milanov/simple-tasks-example
+
 ## Further Read
 - https://martinfowler.com - Martin Fowler's guide to everything
 - https://www.mongodb.com/blog/post/event-sourcing-with-mongodb - Good description of Event Sourcing and CQRS
 - https://staltz.com/nothing-new-in-react-and-flux-except-one-thing.html
 - https://github.com/reactjs/redux/issues/351 - Redux and it's relation to CQRS (and other things)
 - https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44
-
 
 ### Ontology and Taxonomy
 
